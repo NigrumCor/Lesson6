@@ -1,8 +1,8 @@
 public class Calculator {
     public static void main(String[] args) {
-        double a = 2;
+        double a = 1;
         double b = 7;
-        double c = 3;
+        double c = 2;
         double d = ((b * b) - (4 * a * c));
         if (d < 0) {
             System.out.println("нет действительных решений");
