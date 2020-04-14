@@ -12,10 +12,9 @@ public class Simple {
                 break;
             }
         }
-        if (simple){
+        if (simple) {
             System.out.println("Число простое");
-        }
-        else {
+        } else {
             System.out.println("Число не является простым");
         }
     }

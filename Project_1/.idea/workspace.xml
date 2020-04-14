@@ -43,9 +43,9 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.MinMax">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator" />
+  <component name="RunManager" selected="Application.Choose">
+    <configuration name="Choose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Choose" />
       <module name="Project_1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,19 +80,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Calculator" />
       <item itemvalue="Application.Lesson_2" />
       <item itemvalue="Application.Mass" />
       <item itemvalue="Application.Simple" />
       <item itemvalue="Application.MinMax" />
+      <item itemvalue="Application.Choose" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Choose" />
         <item itemvalue="Application.MinMax" />
         <item itemvalue="Application.Simple" />
         <item itemvalue="Application.Lesson_2" />
         <item itemvalue="Application.Mass" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -114,22 +114,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1034" y="198" width="808" height="676" key="#Auto_Import/0.0.1920.1080@0.0.1920.1080" timestamp="1586695566156" />
-    <state width="912" height="340" key="GridCell.Tab.0.bottom" timestamp="1586700788645">
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom" timestamp="1586875276789">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="912" height="340" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586700788645" />
-    <state width="912" height="340" key="GridCell.Tab.0.center" timestamp="1586700788645">
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586875276789" />
+    <state width="1876" height="342" key="GridCell.Tab.0.center" timestamp="1586875276789">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="912" height="340" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586700788645" />
-    <state width="912" height="340" key="GridCell.Tab.0.left" timestamp="1586700788645">
+    <state width="1876" height="342" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586875276789" />
+    <state width="1876" height="342" key="GridCell.Tab.0.left" timestamp="1586875276788">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="912" height="340" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586700788645" />
-    <state width="912" height="340" key="GridCell.Tab.0.right" timestamp="1586700788645">
+    <state width="1876" height="342" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586875276788" />
+    <state width="1876" height="342" key="GridCell.Tab.0.right" timestamp="1586875276789">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="912" height="340" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586700788645" />
+    <state width="1876" height="342" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586875276789" />
     <state x="928" y="173" key="SettingsEditor" timestamp="1586691140009">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
