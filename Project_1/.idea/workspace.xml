@@ -35,7 +35,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -43,56 +42,56 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Choose">
-    <configuration name="Choose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Choose" />
+  <component name="RunManager" selected="Application.Lesson5">
+    <configuration name="Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Function" />
       <module name="Project_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_2" />
+    <configuration name="Lesson5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson5" />
       <module name="Project_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mass" />
+    <configuration name="Marks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Marks" />
       <module name="Project_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinMax" />
+    <configuration name="MssInMss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MssInMss" />
       <module name="Project_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Simple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Simple" />
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort" />
       <module name="Project_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lesson_2" />
-      <item itemvalue="Application.Mass" />
-      <item itemvalue="Application.Simple" />
-      <item itemvalue="Application.MinMax" />
-      <item itemvalue="Application.Choose" />
+      <item itemvalue="Application.Sort" />
+      <item itemvalue="Application.MssInMss" />
+      <item itemvalue="Application.Function" />
+      <item itemvalue="Application.Lesson5" />
+      <item itemvalue="Application.Marks" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Choose" />
-        <item itemvalue="Application.MinMax" />
-        <item itemvalue="Application.Simple" />
-        <item itemvalue="Application.Lesson_2" />
-        <item itemvalue="Application.Mass" />
+        <item itemvalue="Application.Lesson5" />
+        <item itemvalue="Application.Marks" />
+        <item itemvalue="Application.Sort" />
+        <item itemvalue="Application.Function" />
+        <item itemvalue="Application.MssInMss" />
       </list>
     </recent_temporary>
   </component>
@@ -114,29 +113,57 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1034" y="198" width="808" height="676" key="#Auto_Import/0.0.1920.1080@0.0.1920.1080" timestamp="1586695566156" />
-    <state width="1876" height="342" key="GridCell.Tab.0.bottom" timestamp="1586875276789">
+    <state x="64" y="119" width="858" height="838" key="CommitChangelistDialog2" timestamp="1587490414761">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586875276789" />
-    <state width="1876" height="342" key="GridCell.Tab.0.center" timestamp="1586875276789">
+    <state x="64" y="119" width="858" height="838" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1587490414761" />
+    <state x="0" y="90" width="1544" height="893" key="DiffContextDialog" timestamp="1587484267937">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586875276789" />
-    <state width="1876" height="342" key="GridCell.Tab.0.left" timestamp="1586875276788">
+    <state x="0" y="90" width="1544" height="893" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587484267937" />
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom" timestamp="1587491787774">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586875276788" />
-    <state width="1876" height="342" key="GridCell.Tab.0.right" timestamp="1586875276789">
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587491787774" />
+    <state width="1876" height="342" key="GridCell.Tab.0.center" timestamp="1587491787774">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586875276789" />
+    <state width="1876" height="342" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587491787774" />
+    <state width="1876" height="342" key="GridCell.Tab.0.left" timestamp="1587491787774">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587491787774" />
+    <state width="1876" height="342" key="GridCell.Tab.0.right" timestamp="1587491787774">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587491787774" />
+    <state width="940" height="356" key="GridCell.Tab.1.bottom" timestamp="1587393398280">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="940" height="356" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587393398280" />
+    <state width="940" height="356" key="GridCell.Tab.1.center" timestamp="1587393398279">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="940" height="356" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587393398279" />
+    <state width="940" height="356" key="GridCell.Tab.1.left" timestamp="1587393398279">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="940" height="356" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587393398279" />
+    <state width="940" height="356" key="GridCell.Tab.1.right" timestamp="1587393398280">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="940" height="356" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587393398280" />
     <state x="928" y="173" key="SettingsEditor" timestamp="1586691140009">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="928" y="173" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1586691140009" />
-    <state x="1114" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1586701530904">
+    <state x="1114" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1587393288832">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1114" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586701530904" />
+    <state x="1114" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587393288832" />
+    <state x="573" y="222" width="770" height="636" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587489920581">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="573" y="222" width="770" height="636" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1587489920581" />
   </component>
 </project>
