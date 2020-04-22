@@ -5,8 +5,8 @@ public class Marks {
         int[] Marks = new int[m];
         for (int i = 0; i < Marks.length; i++){
 
-                Marks[i] = (int) (Math.random() * 10);
-                System.out.println(Marks[i]);
+            Marks[i] = (int) (Math.random() * 10);
+            System.out.println(Marks[i]);
         }
         System.out.println("Mid Mark");
         double sum = 0;
@@ -15,7 +15,7 @@ public class Marks {
         }
         double MidMark = sum/Marks.length;
         System.out.println(MidMark);
-        }
-
     }
+
+}
 
