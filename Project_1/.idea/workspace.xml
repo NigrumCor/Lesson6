@@ -42,7 +42,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Lesson5">
+  <component name="RunManager" selected="Application.Lesson6">
     <configuration name="Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Function" />
       <module name="Project_1" />
@@ -57,15 +57,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Marks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Marks" />
+    <configuration name="Lesson6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6" />
       <module name="Project_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MssInMss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MssInMss" />
+    <configuration name="Marks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Marks" />
       <module name="Project_1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,18 +80,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Sort" />
-      <item itemvalue="Application.MssInMss" />
       <item itemvalue="Application.Function" />
       <item itemvalue="Application.Lesson5" />
       <item itemvalue="Application.Marks" />
+      <item itemvalue="Application.Lesson6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson6" />
         <item itemvalue="Application.Lesson5" />
         <item itemvalue="Application.Marks" />
         <item itemvalue="Application.Sort" />
         <item itemvalue="Application.Function" />
-        <item itemvalue="Application.MssInMss" />
       </list>
     </recent_temporary>
   </component>
@@ -125,22 +125,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="0" y="90" width="1544" height="893" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587484267937" />
-    <state width="940" height="342" key="GridCell.Tab.0.bottom" timestamp="1587586760924">
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom" timestamp="1587661476341">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="940" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587586760924" />
-    <state width="940" height="342" key="GridCell.Tab.0.center" timestamp="1587586760924">
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587661476341" />
+    <state width="1876" height="342" key="GridCell.Tab.0.center" timestamp="1587661476341">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="940" height="342" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587586760924" />
-    <state width="940" height="342" key="GridCell.Tab.0.left" timestamp="1587586760923">
+    <state width="1876" height="342" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587661476341" />
+    <state width="1876" height="342" key="GridCell.Tab.0.left" timestamp="1587661476341">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="940" height="342" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587586760923" />
-    <state width="940" height="342" key="GridCell.Tab.0.right" timestamp="1587586760924">
+    <state width="1876" height="342" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587661476341" />
+    <state width="1876" height="342" key="GridCell.Tab.0.right" timestamp="1587661476341">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="940" height="342" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587586760924" />
+    <state width="1876" height="342" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587661476341" />
     <state width="940" height="356" key="GridCell.Tab.1.bottom" timestamp="1587393398280">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
