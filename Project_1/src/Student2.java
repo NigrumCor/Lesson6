@@ -5,11 +5,17 @@ public class Student2 extends Human{
     Student2(int age, String fio, String color, boolean married, int course) {
 
         super(age, fio, color, married);
+        this.course = course;
     }
 
 
     void studedIn(){
-        System.out.println("He is study");
+        if (this.course > 0 && this.course < 4) {
+            System.out.println("He/She is study");
+        }
+        else {
+            System.out.println("He/She n't study");
+        }
     }
 }
 
