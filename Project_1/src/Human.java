@@ -17,25 +17,19 @@ public class Human {
         System.out.println(age);
         System.out.println(fio);
         System.out.println(color);
-
-        if (this.married = true) {
-            System.out.println("He/She has married");
         }
-        else {
+
+    void Marrige() {
+        if (this.married = true) {
+
+            System.out.println("He/She has married");
+        } else {
+
             System.out.println("He/She n't married");
         }
     }
+}
 
-    void Marrige() {
-            this.married = true;
-        System.out.println("He/She has married");
-          }
-
-     void Alone(){
-            this.married = false;
-         System.out.println("He/She n't married");
-     }
-    }
 
 
 
