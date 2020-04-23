@@ -20,7 +20,7 @@ public class Human {
         }
 
     void Marrige() {
-        if (this.married = true) {
+        if (this.married == true) {
 
             System.out.println("He/She has married");
         } else {
