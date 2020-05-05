@@ -42,9 +42,9 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Lesson6">
-    <configuration name="Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Function" />
+  <component name="RunManager" selected="Application.MyArrayList">
+    <configuration name="Choose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Choose" />
       <module name="Project_1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,34 +64,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Marks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Marks" />
+    <configuration name="Lesson_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_2" />
       <module name="Project_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort" />
+    <configuration name="MyArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyArrayList" />
       <module name="Project_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Sort" />
-      <item itemvalue="Application.Function" />
       <item itemvalue="Application.Lesson5" />
-      <item itemvalue="Application.Marks" />
       <item itemvalue="Application.Lesson6" />
+      <item itemvalue="Application.Lesson_2" />
+      <item itemvalue="Application.Choose" />
+      <item itemvalue="Application.MyArrayList" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lesson6" />
+        <item itemvalue="Application.MyArrayList" />
+        <item itemvalue="Application.Choose" />
         <item itemvalue="Application.Lesson5" />
-        <item itemvalue="Application.Marks" />
-        <item itemvalue="Application.Sort" />
-        <item itemvalue="Application.Function" />
+        <item itemvalue="Application.Lesson6" />
+        <item itemvalue="Application.Lesson_2" />
       </list>
     </recent_temporary>
   </component>
@@ -125,22 +125,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="0" y="90" width="1544" height="893" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587484267937" />
-    <state width="936" height="339" key="GridCell.Tab.0.bottom" timestamp="1587662872068">
+    <state width="1025" height="339" key="GridCell.Tab.0.bottom" timestamp="1588694941095">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587662872068" />
-    <state width="936" height="339" key="GridCell.Tab.0.center" timestamp="1587662872068">
+    <state width="1025" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588694941095" />
+    <state width="1025" height="339" key="GridCell.Tab.0.center" timestamp="1588694941094">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="339" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587662872068" />
-    <state width="936" height="339" key="GridCell.Tab.0.left" timestamp="1587662872067">
+    <state width="1025" height="339" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588694941094" />
+    <state width="1025" height="339" key="GridCell.Tab.0.left" timestamp="1588694941094">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="339" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587662872067" />
-    <state width="936" height="339" key="GridCell.Tab.0.right" timestamp="1587662872068">
+    <state width="1025" height="339" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588694941094" />
+    <state width="1025" height="339" key="GridCell.Tab.0.right" timestamp="1588694941094">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="339" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587662872068" />
+    <state width="1025" height="339" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588694941094" />
     <state width="940" height="356" key="GridCell.Tab.1.bottom" timestamp="1587393398280">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -161,6 +161,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="928" y="173" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1586691140009" />
+    <state x="97" y="100" width="1726" height="883" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588690645415">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="97" y="100" width="1726" height="883" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588690645415" />
     <state x="1114" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1587393288832">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -169,5 +173,13 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="573" y="222" width="770" height="636" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1587489920581" />
+    <state x="692" y="293" width="532" height="493" key="extract.method.dialog" timestamp="1588690748421">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="692" y="293" width="532" height="493" key="extract.method.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588690748421" />
+    <state x="799" y="301" width="318" height="478" key="refactoring.ChangeSignatureDialog" timestamp="1588691328445">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="799" y="301" width="318" height="478" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588691328445" />
   </component>
 </project>
